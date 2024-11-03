@@ -2,7 +2,7 @@ const choices = ["rock", "paper", "scissors"];
 let playerScore = 0;
 let computerScore = 0;
 let round = 1;
-const totalRounds = 5;
+const totalRounds = 10;
 const nextRoundButton = document.getElementById("next-round");
 const choiceButtons = document.querySelectorAll(".choice");
 
