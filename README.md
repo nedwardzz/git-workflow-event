@@ -35,7 +35,7 @@ Otherwise, to clone this repository using the command line, follow these instruc
 - Once cloned, use the following command to enter your local copy of the project
   - `cd git-workflow-event`
 
-### Hot to View Branches
+### How to View Branches
 
 By default, you'll begin on our `main` branch.
 
