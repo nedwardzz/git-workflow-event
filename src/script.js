@@ -186,3 +186,5 @@ class RockPaperScissorsGame {
 document.addEventListener("DOMContentLoaded", () => {
     new RockPaperScissorsGame();
 });
+
+// John was here!
